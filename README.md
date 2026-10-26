@@ -18,19 +18,19 @@
 ## 🛠️ Stack
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=py,flask,js,nodejs,react,java,dart,flutter,html,css,git,github&theme=dark)
+![Stack](https://skillicons.dev/icons?i=py,flask,js,nodejs,react,java,dart,flutter,html,css,git,github&theme=dark)
 
 </div>
 
 ## 🔥 Projetos em destaque
 | Projeto | Descrição | Tech |
 |---|---|---|
-| [🧠 Quiz Acadêmico](https://github.com/tiagosatilio25-max/quiz--academico) | Sistema web de quiz com gerenciamento de perguntas e usuários | ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black) |
+| [🎓 Projeto Go School](https://github.com/tiagosatilio25-max/projetoGoSchool) | Projeto desenvolvido na Go School, com foco em front-end web | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) |
+| [📱 TTC Go School](https://github.com/tiagosatilio25-max/TTC-Go-school) | Aplicação mobile desenvolvida na Go School | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
 | [🤖 Agente de Vendas](https://github.com/tiagosatilio25-max/AGENTE-DE-VENDAS) | Agente inteligente para automação de vendas | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | [📈 Previsão de Vendas com IA](https://github.com/tiagosatilio25-max/previsao_vendas_com_IA) | Modelo preditivo de vendas com machine learning | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | [🏦 Banco Digital NLP](https://github.com/tiagosatilio25-max/bancodigital-nlp-flask) | Banco digital com processamento de linguagem natural | ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white) |
-| [🖱️ Controle de Mouse (YOLO)](https://github.com/tiagosatilio25-max/Controle-de-Mouse-por-Movimento--YOLO-) | Controle do mouse por movimento com visão computacional | ![Python](https://img.shields.io/badge/YOLO-00FFFF?logo=python&logoColor=black) |
-| [🔐 Autenticator](https://github.com/tiagosatilio25-max/Autenticator) | Sistema de autenticação de usuários | ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black) |
+| [🖱️ Controle de Mouse (YOLO)](https://github.com/tiagosatilio25-max/Controle-de-Mouse-por-Movimento--YOLO-) | Controle do mouse por movimento com visão computacional | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=python&logoColor=black) |
 
 ## 📊 Estatísticas
 <div align="center">
@@ -45,10 +45,5 @@
 ## 📫 Contato
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://SEU-PORTFOLIO.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagosatilio25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin
