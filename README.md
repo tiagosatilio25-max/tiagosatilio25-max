@@ -12,25 +12,25 @@
 ## 👨‍💻 Sobre mim
 - 🎓 Estudante de tecnologia, focado em **desenvolvimento full stack** e **inteligência artificial**
 - 🤖 Explorando **IA Generativa**, **NLP** e **visão computacional (YOLO)**
-- 📱 Criando apps mobile com **Flutter** e APIs com **Node.js**, **Flask** e **Java**
+- 📱 Criando apps mobile com **Flutter** e **Firebase**, e APIs com **Node.js**, **Flask** e **Java**
 - 🌱 Sempre aprendendo, construindo e publicando
 
 ## 🛠️ Stack
 <div align="center">
 
-![Stack](https://skillicons.dev/icons?i=py,flask,js,nodejs,react,java,dart,flutter,html,css,git,github&theme=dark)
+![Stack](https://skillicons.dev/icons?i=py,flask,js,nodejs,react,java,dart,flutter,firebase,html,css,git,github&theme=dark)
 
 </div>
 
 ## 🔥 Projetos em destaque
 | Projeto | Descrição | Tech |
 |---|---|---|
-| [🎓 Projeto Go School](https://github.com/tiagosatilio25-max/projetoGoSchool) | Projeto desenvolvido na Go School, com foco em front-end web | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) |
-| [📱 TTC Go School](https://github.com/tiagosatilio25-max/TTC-Go-school) | Aplicação mobile desenvolvida na Go School | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
+| [📱 TTC Go School](https://github.com/tiagosatilio25-max/TTC-Go-school) | App mobile com interface em **Flutter**, autenticação de usuários e armazenamento de dados com **Firebase** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
 | [🤖 Agente de Vendas](https://github.com/tiagosatilio25-max/AGENTE-DE-VENDAS) | Agente inteligente para automação de vendas | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | [📈 Previsão de Vendas com IA](https://github.com/tiagosatilio25-max/previsao_vendas_com_IA) | Modelo preditivo de vendas com machine learning | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | [🏦 Banco Digital NLP](https://github.com/tiagosatilio25-max/bancodigital-nlp-flask) | Banco digital com processamento de linguagem natural | ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white) |
 | [🖱️ Controle de Mouse (YOLO)](https://github.com/tiagosatilio25-max/Controle-de-Mouse-por-Movimento--YOLO-) | Controle do mouse por movimento com visão computacional | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=python&logoColor=black) |
+| [🎓 Projeto Go School](https://github.com/tiagosatilio25-max/projetoGoSchool) | Projeto desenvolvido na Go School, com foco em front-end web | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) |
 
 ## 📊 Estatísticas
 <div align="center">
@@ -46,4 +46,9 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagosatilio25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://SEU-PORTFOLIO.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
