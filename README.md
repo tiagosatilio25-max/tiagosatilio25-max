@@ -19,7 +19,7 @@
 
 Sou estudante do curso técnico de **Análise e Desenvolvimento de Sistemas na ETEC Albert Einstein**, interessado em desenvolvimento de software, backend, aplicações web e bancos de dados.
 
-Busco aprimorar meus conhecimentos por meio de projetos práticos e desenvolver soluções que contribuam para minha evolução profissional.
+Estou aprimorar meus conhecimentos por meio de projetos práticos  que contribuam para minha evolução profissional.
 
 - 🎓 Formação técnica em andamento na ETEC Albert Einstein.
 - 🤖 Curso de Programação em Inteligência Artificial Generativa pelo SENAI.
