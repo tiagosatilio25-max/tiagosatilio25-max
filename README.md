@@ -30,7 +30,7 @@
 | [📈 Previsão de Vendas com IA](https://github.com/tiagosatilio25-max/previsao_vendas_com_IA) | Modelo preditivo de vendas com machine learning | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | [🏦 Banco Digital NLP](https://github.com/tiagosatilio25-max/bancodigital-nlp-flask) | Banco digital com processamento de linguagem natural | ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white) |
 | [🖱️ Controle de Mouse (YOLO)](https://github.com/tiagosatilio25-max/Controle-de-Mouse-por-Movimento--YOLO-) | Controle do mouse por movimento com visão computacional | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=python&logoColor=black) |
-| [🎓 Projeto Go School](https://github.com/tiagosatilio25-max/projetoGoSchool) | Projeto desenvolvido na Go School, com foco em front-end web | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) |
+
 
 ## 📊 Estatísticas
 <div align="center">
